@@ -1,0 +1,122 @@
+.us{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Crimson Text;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+
+}
+.victus{
+    background-color: rebeccapurple;
+}
+.submit{
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    width: 575px;
+    height: 48px;
+    margin-top: 30px;
+}
+.text{
+    width: 575px;
+height: 38px;
+gap: 0px;
+border-radius: 5px 5px 5px 5px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+background: #EEEEEE;
+border-radius: 5px;
+margin-top: 20px;
+}
+.ford{
+    width: 575px;
+height: 75px;
+gap: 0px;
+border-radius: 5px 5px 5px 5px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+border-radius: 5px;
+background: #EEEEEE;
+
+}
+.bike{
+   padding-top: 13px;
+   
+}
+.map__right{
+    margin-left: 600px;
+    margin-top: -390px;
+}
+.map__contact{
+    margin-top: 25px;
+    margin-bottom: 90px;
+}
+.map__wrapper{
+    margin-top: 30px;
+}
+
+@media screen  and (max-width:500px){
+    .us{
+        font-size: 29px;
+    }
+    .batiskaf{
+        margin: 0 auto;
+    }
+    .text{
+        width: 400px;
+        height: 40px;
+        gap: 0px;
+        border-radius: 5px 5px 5px 5px;
+        border: 1px 1px 1px 1px;
+        opacity: 0px;
+        margin-left: 13px;
+
+    }
+    .bike{
+        margin-left: 17px;
+
+    }
+    .ford{
+        width: 400px;
+        height:150px;
+        gap: 0px;
+        border-radius: 5px 5px 5px 5px;
+        border: 1px 1px 1px 1px;
+        opacity: 0px;
+        margin-left: 13px;
+
+    }
+    .submit{
+        width: 412px;
+        margin-left: 6px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+
+    }
+    .map__contact{
+        margin-left: -20px;
+        
+    }
+    .map__right{
+        margin-top: 100px;
+        margin: 0 auto;
+
+ 
+    }
+    .map__wrapper{
+        border: 10px solid #000;
+       
+    }
+    iframe{
+        width: 405px;
+        height: 260px;
+        margin-left: 10px;
+        border: 1px solid #000;
+       
+    }
+    
+}

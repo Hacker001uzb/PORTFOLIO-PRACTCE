@@ -1,0 +1,72 @@
+ .btnn{
+        color: #fff;
+        background-color: black;
+        font-family: Work Sans;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: center;
+         width: 170px;
+        height: 48px;
+        border: none;
+  
+        border-radius: 4px;
+       }
+
+       .dias{
+        text-align: start;
+       }
+
+       .pa{
+        font-family: Work Sans;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: start;
+        
+        
+        }
+        .comment__wrapper{
+            display: flex;
+            margin-top: 80px;
+            
+        }
+        .comment__contact{
+            margin-left: 40px;
+            margin-top: 100px;
+      
+        }
+
+ @media screen and (max-width:500px){
+    .comment__wrapper{
+        display: flex;
+        flex-direction: column;
+        img{
+            width: 335px;
+            height: 240.88px;
+            gap: 0px;
+            opacity: 0px;
+            margin-top: -110px;
+
+        }
+    }
+    .dias{
+        margin-top: 40px;
+        font-size: 35px;
+    }
+    .pa{
+        margin-top: 25px;
+    }
+    .btnn{
+        margin: 40px 0;
+    }
+    .comment__contact{
+        margin-top: -10px;
+
+    }
+
+    .comment__wrapper{
+    }
+ }
+      
+      

@@ -1,0 +1,19 @@
+.us {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Crimson Text;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  text-align: center;
+}
+
+.victus {
+  background-color: rebeccapurple;
+}
+
+.submit {
+  width: 575px;
+  height: 48px;
+}/*# sourceMappingURL=Contact.css.map */

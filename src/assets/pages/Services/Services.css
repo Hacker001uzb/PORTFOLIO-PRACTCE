@@ -1,0 +1,102 @@
+.plans {
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #74C69D;
+}
+
+.our {
+  font-family: Crimson Text;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  text-align: center;
+}
+
+.cash {
+  width: Hug 339px px;
+  height: Hug 542px px;
+  padding: 46px 30px 46px 30px;
+  gap: 10px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.money {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  width: Hug 339px px;
+  height: Hug 542px px;
+  padding: 46px 30px 46px 30px;
+  gap: 10px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  box-shadow: 3px 4px 12px 1px rgba(0, 0, 0, 0.2509803922);
+}
+
+button {
+  width: 170px;
+  height: 48px;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: center;
+  border-radius: 4px;
+  color: #fff;
+  background-color: black;
+  border: none;
+}
+
+.bmw {
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 18.75px;
+  text-align: left;
+}
+
+.h10 {
+  font-family: Work Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  text-align: left;
+  width: 95px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  margin-left: 5px;
+  font-weight: 50;
+  color: grey;
+}
+
+.merc {
+  color: gray;
+}
+
+img {
+  margin-right: 5px;
+}
+
+.services__contact {
+  margin-top: 20px;
+}/*# sourceMappingURL=Services.css.map */

@@ -1,0 +1,54 @@
+.space{
+    color: #fff;
+    background-color: black;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+     width: 170px;
+    height: 48px;
+    border: none;
+    margin: 10px 0px;
+    border-radius: 4px;
+    
+}
+.dog{
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+text-align: start;
+
+}
+.womment__wrapper{
+    display: flex;
+    margin-top: 80px; 
+}
+.womment__contact{
+    margin: 140px 0px;
+}
+.win{
+    text-align: start;
+}
+
+
+@media screen and (max-width:500px){
+    .womment__wrapper{
+        flex-direction: column-reverse;
+        display: flex;
+        margin-top: 30px;
+    }
+    .womment__contact{
+        
+        margin: 0 auto; 
+    }
+    .win{
+        margin-top: 50px;
+    }
+    .space{
+        margin: 40px 0;
+    
+    }
+}
+

@@ -1,0 +1,31 @@
+.space {
+  color: #fff;
+  background-color: black;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: center;
+  width: 170px;
+  height: 48px;
+  border: none;
+  margin: 10px 0px;
+  border-radius: 4px;
+}
+
+.papa {
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: start;
+}
+
+.womment__wrapper {
+  display: flex;
+  margin-top: 80px;
+}
+
+.womment__contact {
+  margin: 140px 0px;
+}/*# sourceMappingURL=Womment.css.map */

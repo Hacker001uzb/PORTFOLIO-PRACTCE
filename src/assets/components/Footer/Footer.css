@@ -1,0 +1,29 @@
+.footer {
+  background-color: var(--mainGreen);
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
+.footer .footer__wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .footer__wrapper p {
+  color: #fff;
+}
+
+.icon__wrapper {
+  display: flex;
+  width: 200px;
+}
+.icon__wrapper a {
+  padding: 0 5px;
+}
+
+.icon__item {
+  margin-left: 10px;
+}/*# sourceMappingURL=Footer.css.map */
